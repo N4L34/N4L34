@@ -27,7 +27,3 @@ Linux · Docker · Kubernetes · Helm · Ansible · GitHub Actions · Prometheus
 - [LikeChat](https://github.com/N4L34/LikeChat) — Farcaster mini app that shows real application delivery, deployment, and integration work.
 - [Onion-Network](https://github.com/N4L34/Onion-Network) — multi-hop encrypted relay network deployed with Docker, Ansible, and systemd across multiple nodes.
 - [sre-notes](https://github.com/N4L34/sre-notes) — public DevOps/SRE notes covering Linux, networking, containers, Kubernetes, CI/CD, and observability.
-
-## Notes
-
-This profile is intentionally curated for GitHub. The stronger repositories are positioned as readable portfolio pieces, not just code dumps.
