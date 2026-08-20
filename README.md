@@ -2,7 +2,6 @@
 
 DevOps / SRE-oriented engineer focused on Linux infrastructure, automation, Kubernetes, and observability.
 
-![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-ready-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-ready-326CE5?logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-ready-0F1689?logo=helm&logoColor=white)
