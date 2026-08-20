@@ -23,8 +23,6 @@ Linux · Docker · Kubernetes · Helm · Ansible · GitHub Actions · Prometheus
 - CI/CD pipelines
 - Linux systems and networking
 
-## Selected work
-
 - [uptime-monitor](https://github.com/N4L34/uptime-monitor) — SRE-focused uptime monitoring service with FastAPI, Kubernetes, Helm, Ansible, Prometheus/Grafana, ELK, and GitHub Actions.
 - [LikeChat](https://github.com/N4L34/LikeChat) — Farcaster mini app that shows real application delivery, deployment, and integration work.
 - [Onion-Network](https://github.com/N4L34/Onion-Network) — multi-hop encrypted relay network deployed with Docker, Ansible, and systemd across multiple nodes.
